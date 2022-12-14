@@ -1,0 +1,1 @@
+[![CircleCI](https://dl.circleci.com/insights-snapshot/gh/Adamhviid/Testing_Exam/main/build_test/badge.svg?window=30d)](https://app.circleci.com/insights/github/Adamhviid/Testing_Exam/workflows/build_test/overview?branch=main&reporting-window=last-30-days&insights-snapshot=true)
